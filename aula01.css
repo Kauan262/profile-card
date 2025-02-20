@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(72, 66, 82);
+    font-family: Arial, sans-serif; /* fonte*/
+    display: flex; /* usar o FlexBox para exibir o conteúdo*/
+    justify-content: center; /* centraliza na horizontal*/
+    height: 100vh; /*altura da página é todo conteúdo dela*/
+    align-items: center; /*centraliza na vertical*/
+}
+
+.container {
+background-color: rgb(62, 53, 68);
+padding: 15px; /* espaçamento interno*/
+}
