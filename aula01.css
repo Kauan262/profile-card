@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(72, 66, 82);
+    background-color: #594126;
     font-family: Arial, sans-serif; /* fonte*/
     display: flex; /* usar o FlexBox para exibir o conteúdo*/
     justify-content: center; /* centraliza na horizontal*/
@@ -8,6 +8,20 @@ body {
 }
 
 .container {
-background-color: rgb(62, 53, 68);
+background-color: #c5904a ;
 padding: 15px; /* espaçamento interno*/
+border-radius: 10px;
+box-shadow: 4px 8px;
+}
+button{
+background-color: #9e7047;
+box-shadow:  ;
+}
+
+a {
+    color: black;
+}
+
+.imagem{
+    border-radius: 10%;
 }
