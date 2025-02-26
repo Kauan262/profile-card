@@ -15,7 +15,7 @@ box-shadow: 4px 8px;
 }
 button{
 background-color: #9e7047;
-box-shadow:  ;
+box-shadow:  black;
 }
 
 a {
@@ -25,3 +25,4 @@ a {
 .imagem{
     border-radius: 10%;
 }
+
